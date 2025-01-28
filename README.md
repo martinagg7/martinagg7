@@ -4,9 +4,6 @@ Hi! I'm Martina García González
 
 I'm a 3rd-year student pursuing a double bachelor's degree in mathematics and computer science. I am passionate about artificial intelligence, machine learning, and quantum computing. Currently, I’m focusing on learning and developing projects in these fields from the ground up.
 
-
-
-
 ## 🌟 What I’m Working On
 - Developing skills in mathematics, with a focus on analysis and data management.
 - Developing projects in these fields to apply theoretical concepts to practical problems.
@@ -28,8 +25,7 @@ I'm a 3rd-year student pursuing a double bachelor's degree in mathematics and co
 
 I’m constantly expanding my knowledge and excited to continue developing my skills!
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/martinagarciagonzalez) 
+
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
